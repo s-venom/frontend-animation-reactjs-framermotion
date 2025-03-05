@@ -38,7 +38,7 @@ A modern **Framer** animation project using **React.js, Tailwind CSS, and Framer
 - Image reveal animations  
 
 
-### **6️⃣ Scroll Velocity-Based Parallax Text** 🆕
+### **4️⃣ Scroll Velocity-Based Parallax Text** 🆕
 - **Dynamic speed & direction** based on scroll  
 
 - Infinite loop effect  
@@ -46,12 +46,12 @@ A modern **Framer** animation project using **React.js, Tailwind CSS, and Framer
 - Using bold typography  
 
 
-### **4️⃣ Call-to-Action Section**
+### **5️⃣ Call-to-Action Section**
 
 - Animated buttons & smooth transitions  
 
 
-### **5️⃣ Custom Cursor**
+### **6️⃣ Custom Cursor**
 
 - Interactive hover effect  
 
@@ -63,11 +63,3 @@ A modern **Framer** animation project using **React.js, Tailwind CSS, and Framer
 - **Animations:** Framer Motion  
 - **Deployment:** Vercel  
 
-## 🚀 Setup & Installation
-
-1️⃣ **Clone the repository**
-  
-```sh
-git clone https://github.com/yourusername/cuberto-animation-clone.git
-
-cd cuberto-animation-clone
